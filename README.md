@@ -1,0 +1,1 @@
+# CNN-model-for-battery-SOH-prediction-using-fast-charging-data-sets
