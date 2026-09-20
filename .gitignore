@@ -1,0 +1,23 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated model and result files
+*.keras
+dataset_file_split.csv
+cnn_test_predictions.csv
+cnn_test_per_file_metrics.csv
+
+# Local datasets should not normally be committed
+data/
+*.json
+
